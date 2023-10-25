@@ -1,2 +1,2 @@
-# Fungi_Highway
+# Fungi
 Payment gateway for digital commerce businesses
