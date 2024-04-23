@@ -13,12 +13,12 @@ Click on the "Fork" button at the top right corner of this repository to create 
 Clone your forked repository to your local system using the following command:
 
 ```bash
-git clone https://github.com/{YourUsername}/Dynamic-Report-Scheduler.git
+git clone https://github.com/{YourUsername}/Mycelium_Web.git
 ```
 ### 3. Add Upstream Remote
 To keep your local repository updated with the latest changes from the original repository, add an upstream remote:
 ```bash
-git remote add upstream https://github.com/ZareefJafar/Dynamic-Report-Scheduler.git
+git remote add upstream https://github.com/ZareefJafar/Mycelium_Web.git
 ```
 See if upstream is added
 ```bash
@@ -26,7 +26,7 @@ git remote -v
 ```
 
 ### 4. Develope and Commit
-Create your feature branch (e.g., feature/add-data-size, hotfix/fix-date)
+Create your feature branch (e.g., feature/add-tran-type, hotfix/fix-amount-format)
 ```bash
 git checkout -b feature/feature-x
 ```
